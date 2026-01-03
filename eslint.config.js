@@ -3,6 +3,7 @@ const eslint = require("@eslint/js");
 const { defineConfig } = require("eslint/config");
 const tseslint = require("typescript-eslint");
 const angular = require("angular-eslint");
+const eslintConfigPrettier = require("eslint-config-prettier/flat");
 
 module.exports = defineConfig([
   {
@@ -38,10 +39,8 @@ module.exports = defineConfig([
   },
   {
     files: ["**/*.html"],
-    extends: [
-      angular.configs.templateRecommended,
-      angular.configs.templateAccessibility,
-    ],
+    extends: [angular.configs.templateRecommended, angular.configs.templateAccessibility],
     rules: {},
-  }
+  },
+  eslintConfigPrettier,
 ]);
