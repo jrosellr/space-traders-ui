@@ -1,0 +1,19 @@
+type: http_request
+model: http_request
+id: rq_Pzyu8YY2qm
+createdAt: 2026-01-06T11:39:10.476111100
+updatedAt: 2026-01-06T11:43:18.358704300
+workspaceId: wk_iSa9nRGQqX
+folderId: fl_fA3Yycx2wM
+authentication:
+  token: ${[ ST_AGENT_TOKEN ]}
+authenticationType: bearer
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: Supply Chain
+sortPriority: 1000.0
+url: ${[ BASE_URL ]}/market/supply-chain
+urlParameters: []

@@ -1,0 +1,30 @@
+type: http_request
+model: http_request
+id: rq_8h28LYMgbZ
+createdAt: 2026-01-06T12:18:01.491603900
+updatedAt: 2026-01-06T12:22:28.424511700
+workspaceId: wk_iSa9nRGQqX
+folderId: fl_bgibrR8e37
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: Waypoint
+sortPriority: 1000.002
+url: ${[ BASE_URL ]}/systems/:system_symbol//waypoints/:waypoint_symbol
+urlParameters:
+- enabled: true
+  name: :system_symbol
+  value: X1-ZN66
+  id: 4b7RWB6edX
+- enabled: true
+  name: :waypoint_symbol
+  value: X1-ZN66-A1
+  id: rDTIpwdiwM
+- enabled: true
+  name: ''
+  value: ''
+  id: iFSPqrNJnn

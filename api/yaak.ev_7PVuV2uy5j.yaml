@@ -1,0 +1,18 @@
+type: environment
+model: environment
+id: ev_7PVuV2uy5j
+workspaceId: wk_iSa9nRGQqX
+createdAt: 2026-01-06T11:05:37.301911600
+updatedAt: 2026-01-06T11:22:00.772024800
+name: Production
+public: true
+base: false
+parentModel: environment
+parentId: null
+variables:
+- enabled: true
+  name: BASE_URL
+  value: https://api.spacetraders.io/v2
+  id: 8ksSVxreNX
+color: var(--danger)
+sortPriority: 0.0

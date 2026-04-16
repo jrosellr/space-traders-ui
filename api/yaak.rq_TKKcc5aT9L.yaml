@@ -1,0 +1,20 @@
+type: http_request
+model: http_request
+id: rq_TKKcc5aT9L
+createdAt: 2026-01-06T11:17:36.120456400
+updatedAt: 2026-01-06T16:18:01.392763200
+workspaceId: wk_iSa9nRGQqX
+folderId: fl_37DR9hqN5B
+authentication:
+  disabled: false
+  token: ${[ ST_AGENT_TOKEN ]}
+authenticationType: bearer
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: Agent Details
+sortPriority: 1000.0
+url: ${[ BASE_URL ]}/my/agent
+urlParameters: []

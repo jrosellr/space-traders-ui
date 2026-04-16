@@ -1,0 +1,18 @@
+type: http_request
+model: http_request
+id: rq_EVPcygVr84
+createdAt: 2026-01-06T11:48:07.928981900
+updatedAt: 2026-01-06T11:48:25.285831300
+workspaceId: wk_iSa9nRGQqX
+folderId: fl_VyKuYfxDmn
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: Contracts
+sortPriority: 1000.001
+url: ${[ BASE_URL ]}/my/contracts
+urlParameters: []

@@ -1,0 +1,13 @@
+type: folder
+model: folder
+id: fl_fA3Yycx2wM
+createdAt: 2026-01-06T11:39:07.095693100
+updatedAt: 2026-01-06T11:46:02.554477200
+workspaceId: wk_iSa9nRGQqX
+folderId: null
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: Market
+sortPriority: 2000.0

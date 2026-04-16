@@ -1,0 +1,14 @@
+type: workspace
+model: workspace
+id: wk_iSa9nRGQqX
+createdAt: 2026-01-06T11:04:48.916353600
+updatedAt: 2026-01-06T11:04:48.916354100
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: space-traders
+encryptionKeyChallenge: null
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0

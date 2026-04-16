@@ -1,0 +1,26 @@
+type: http_request
+model: http_request
+id: rq_imRxjUHNuT
+createdAt: 2026-01-06T12:01:23.454938200
+updatedAt: 2026-01-06T12:03:29.101843300
+workspaceId: wk_iSa9nRGQqX
+folderId: fl_bgibrR8e37
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: System
+sortPriority: 1000.001
+url: ${[ BASE_URL ]}/systems/:system_symbol
+urlParameters:
+- enabled: true
+  name: :system_symbol
+  value: X1-ZN66
+  id: 4b7RWB6edX
+- enabled: true
+  name: ''
+  value: ''
+  id: BsheIu7QS7

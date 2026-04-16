@@ -1,0 +1,20 @@
+type: http_request
+model: http_request
+id: rq_VK6rq7RXai
+createdAt: 2026-01-06T11:44:58.609610900
+updatedAt: 2026-01-06T11:45:07.205199300
+workspaceId: wk_iSa9nRGQqX
+folderId: fl_37DR9hqN5B
+authentication:
+  disabled: false
+  token: ${[ ST_AGENT_TOKEN ]}
+authenticationType: bearer
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: Agent Events
+sortPriority: 1000.001
+url: ${[ BASE_URL ]}/my/agent/events
+urlParameters: []

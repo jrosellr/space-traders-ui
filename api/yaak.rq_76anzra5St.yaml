@@ -1,0 +1,18 @@
+type: http_request
+model: http_request
+id: rq_76anzra5St
+createdAt: 2026-01-06T15:56:14.684054600
+updatedAt: 2026-01-06T15:57:24.932787300
+workspaceId: wk_iSa9nRGQqX
+folderId: fl_DC7mzH6cCC
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: Error Codes
+sortPriority: 0.001
+url: ${[ BASE_URL ]}/error-codes
+urlParameters: []

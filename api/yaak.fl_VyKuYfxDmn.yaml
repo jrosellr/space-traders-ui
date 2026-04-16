@@ -1,0 +1,14 @@
+type: folder
+model: folder
+id: fl_VyKuYfxDmn
+createdAt: 2026-01-06T11:47:44.479982700
+updatedAt: 2026-01-06T11:48:02.174103800
+workspaceId: wk_iSa9nRGQqX
+folderId: null
+authentication:
+  token: ${[ ST_AGENT_TOKEN ]}
+authenticationType: bearer
+description: ''
+headers: []
+name: Contracts
+sortPriority: 333.3333333333333

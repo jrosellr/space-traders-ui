@@ -1,0 +1,28 @@
+type: http_request
+model: http_request
+id: rq_ivx3bj8u52
+createdAt: 2026-01-06T11:19:42.553967700
+updatedAt: 2026-01-06T11:25:05.189115600
+workspaceId: wk_iSa9nRGQqX
+folderId: fl_37DR9hqN5B
+authentication:
+  token: ${[ ST_ACCOUNT_TOKEN ]}
+authenticationType: bearer
+body:
+  text: |-
+    {
+      "symbol": "ICE_BREAKER",
+      "faction": "COSMIC"
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: 29VKvMBpE8
+method: POST
+name: Register
+sortPriority: 1000.0
+url: ${[ BASE_URL ]}/register
+urlParameters: []

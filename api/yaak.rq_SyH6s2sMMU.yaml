@@ -1,0 +1,18 @@
+type: http_request
+model: http_request
+id: rq_SyH6s2sMMU
+createdAt: 2026-01-06T11:08:34.742890900
+updatedAt: 2026-01-06T11:31:30.206501900
+workspaceId: wk_iSa9nRGQqX
+folderId: fl_DC7mzH6cCC
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: OpenApi Spec
+sortPriority: 1000.0
+url: ${[ BASE_URL ]}/documentation/json
+urlParameters: []

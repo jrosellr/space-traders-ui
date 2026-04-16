@@ -1,0 +1,13 @@
+type: folder
+model: folder
+id: fl_DC7mzH6cCC
+createdAt: 2026-01-06T11:10:37.159772200
+updatedAt: 2026-01-06T11:46:02.552175500
+workspaceId: wk_iSa9nRGQqX
+folderId: null
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: Meta
+sortPriority: 1000.0
